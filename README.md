@@ -1,5 +1,5 @@
 ## Weather CLI
-A simple cli that fetches whether info from [aqicn](https://aqicn.org/city/beijing/)
+A simple cli that fetches air quality info from [aqicn](https://aqicn.org/city/beijing/)
 
 ## Setup
 * Get your API key from [here](https://aqicn.org/data-platform/token/#/)
